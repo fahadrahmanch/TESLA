@@ -1,0 +1,467 @@
+body{
+    margin: 0px;
+    width: 100%;
+}
+.body-1{
+    background-image: url(Homepage-Model-3-Desktop-US.avif);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100vh;
+}
+.head{
+    height: 54px;
+    width: 100%;
+    display: flex;
+}
+.left-nav-logo{
+    width: 35%;
+    height: 54px;
+}
+.svg{
+    color: rgb(252, 252, 252);
+    height: 30px;
+    width: 123px;
+    position: absolute;
+    margin-left: 48px;
+    margin-top: 14px;
+}
+.mid-top-nav{
+    width: 34%;
+    height: 54px;
+    margin-left: -38px;
+    padding-top: 10px;
+    margin-top: -7px;
+    overflow: hidden;
+}
+nav a{
+    display: block;
+    text-decoration: none;
+    color: white;
+    font-size: 13px;
+    font-family: "Universal Sans Text", -apple-system, Arial, sans-serif;
+    font-weight: 600;
+}
+.right-logo{
+    height: 54px;
+    width: 34%;
+}
+nav ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+}
+li{
+    padding-right: 33px;
+    
+}
+.svg-1{
+    height: 50px;
+    color: aliceblue;
+}
+.right-logo{
+    display: flex;
+    margin-top: -3px;
+    height: 47px;
+    width: 34%;
+}
+#support{
+    color: white;
+    padding-left: 297px;
+    padding-right: 5px;
+    margin-top: 21px;
+    font-size: 22px;
+}
+#globe{
+    color: white;
+    padding-right: 11px;
+    margin-top: 21px;
+    font-size: 22px;
+    padding-left: 10px;
+}
+#profile{
+    color: white;
+    padding-left: 5px;
+    padding-right: 5px;
+    margin-top: 21px;
+    font-size: 22px;
+}
+.Model{
+    color: white;
+}
+.Model h1{
+    font-size: 56px;
+    font-family:  "Universal Sans Display", -apple-system, Arial, sans-serif;
+    text-align: center;
+    margin-left: -10px;
+    margin-top: 10px;
+}
+.Model h2{
+    font-family: "Universal Sans Display", -apple-system, Arial, sans-serif;
+    text-align: center;
+    margin-top: -37px;
+    font-size: 26px;
+    margin-left: -5px;
+    text-decoration: underline ;
+    text-underline-offset: 8px; 
+}
+.Model p{
+    font-family: "Universal Sans Display", -apple-system, Arial, sans-serif;
+    text-align: center;
+    margin-top: -13px;
+    margin-left: -12px;
+    font-weight: 550;
+    font-size: 17px;
+}
+sup{
+    font-size: 9px;
+    font-weight: 100;
+}
+.button{
+    text-align: center;
+    margin-top: 297px;
+   
+}
+.order-demo{
+    top: 50%;
+    width: 263px;
+    height: 37px;
+    border-radius: 5px ;
+    border: 0px;
+    font-weight: 700;
+    cursor: pointer;
+}
+#order{
+    background-color: rgb(62, 106, 225);
+    color: white;
+    margin-right:13px ;
+}
+#demo{
+    background-color: white;
+    color: black;
+}
+.body-2{
+    background-image: url(Homepage-Model-Y-Desktop-US-v2.avif);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100vh;
+}
+.model-y{
+    color: white;
+    padding-top:56px;
+}
+.model-y h1{
+    font-size: 56px;
+    font-family:  "Universal Sans Display", -apple-system, Arial, sans-serif;
+    text-align: center;
+    margin-left: -10px;
+    margin-top: 10px;
+}
+.model-y h2{
+    font-family: "Universal Sans Display", -apple-system, Arial, sans-serif;
+    text-align: center;
+    margin-top: -37px;
+    font-size: 26px;
+    margin-left: -5px;
+    text-decoration: underline ;
+    text-underline-offset: 8px;
+}
+.model-y p{
+    font-family: "Universal Sans Display", -apple-system, Arial, sans-serif;
+    text-align: center;
+    margin-top: -13px;
+    margin-left: -12px;
+    font-weight: 550;
+    font-size: 17px;
+}
+.body-3{
+    background-image: url(body2.avif);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100vh;
+}
+.model-x{
+    color: white;
+    padding-top:56px;
+}
+.model-x h1{
+    font-size: 56px;
+    font-family:  "Universal Sans Display", -apple-system, Arial, sans-serif;
+    text-align: center;
+    margin-left: -10px;
+    margin-top: 10px;
+}
+.model-x h2{
+    font-family: "Universal Sans Display", -apple-system, Arial, sans-serif;
+    text-align: center;
+    margin-top: -37px;
+    font-size: 26px;
+    margin-left: -5px;
+}
+.model-x p{
+    font-family: "Universal Sans Display", -apple-system, Arial, sans-serif;
+    text-align: center;
+    margin-top: -13px;
+    margin-left: -12px;
+    font-weight: 550;
+    font-size: 17px;
+    text-decoration: underline ;
+    text-underline-offset: 4px;
+}
+.body-4{
+    background-image: url(body-4.avif);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100vh;
+}
+.model-s{
+    color: white;
+    padding-top:56px;
+}
+.model-s h1{
+    font-size: 56px;
+    font-family:  "Universal Sans Display", -apple-system, Arial, sans-serif;
+    text-align: center;
+    margin-left: -10px;
+    margin-top: 10px;
+}
+.model-s h2{
+    font-family: "Universal Sans Display", -apple-system, Arial, sans-serif;
+    text-align: center;
+    margin-top: -37px;
+    font-size: 26px;
+    margin-left: -5px;
+}
+.model-s p{
+    font-family: "Universal Sans Display", -apple-system, Arial, sans-serif;
+    text-align: center;
+    margin-top: -13px;
+    margin-left: -12px;
+    font-weight: 550;
+    font-size: 17px;
+    text-decoration: underline ;
+    text-underline-offset: 4px;
+}
+.body-5{
+    background-image: url(body-5.avif);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100vh;
+}
+.spark{
+    height: 80px;
+    width: 500px;
+    margin-left: 379px;
+    margin-top: 66px;
+}
+#black-button{
+    background-color: black;
+    color: gray;
+    text-transform: uppercase;
+    font-weight: 600;
+    width: 263px;
+    height: 41px;
+    font-size: 12px;
+    border-radius: 5px;
+    margin-top: 44px;
+    cursor: pointer;
+}
+#black-button-1{
+    background-color:black;
+    color: gray;
+    font-weight: 600;
+    width: 263px;
+    height: 41px;
+    border-radius: 5px ;
+    border: 0px;
+    margin-left: 9px;
+    cursor: pointer;
+    text-transform: uppercase;
+    font-size: 12px;
+}
+.body-6{
+    background-image: url(body-6.avif);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100vh;
+}
+.model-p{
+    color: white;
+    padding-top:56px;
+}
+.model-p h1{
+    font-size: 54px;
+    font-family:  "Universal Sans Display", -apple-system, Arial, sans-serif;
+    text-align: center;
+    margin-left: -10px;
+    margin-top: 10px;
+}
+.model-p h2{
+    font-family: "Universal Sans Display", -apple-system, Arial, sans-serif;
+    text-align: center;
+    margin-top: -37px;
+    font-size: 26px;
+    margin-left: -5px;
+    text-decoration: underline ;
+    text-underline-offset: 4px;
+}
+#button-body-6-1{
+    background-color: rgb(62, 106, 225);
+    color: white;
+    margin-right:13px ;
+    margin-top: 39px;
+}
+#button-body-6-2{
+    background-color: white;
+    color: black;
+    margin-top: 39px;
+}
+.body-7{
+    background-image: url(body-7.avif);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100vh;
+}
+.model-R{
+    color: white;
+    padding-top:56px;
+}
+.model-R h1{
+    font-size: 50px;
+    font-family:  "Universal Sans Display", -apple-system, Arial, sans-serif;
+    text-align: center;
+    margin-left: -10px;
+    margin-top: 10px;
+}
+.model-R h2{
+    font-family: "Universal Sans Display", -apple-system, Arial, sans-serif;
+    text-align: center;
+    margin-top: -30px;
+    font-size: 26px;
+    margin-left: -5px;
+}
+.body-8{
+    background-image: url(body-8.avif);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100vh;
+}
+.model-o{
+    color: white;
+    padding-top:56px;
+}
+.model-o h1{
+    font-size: 50px;
+    font-family:  "Universal Sans Display", -apple-system, Arial, sans-serif;
+    text-align: center;
+    margin-left: -10px;
+    margin-top: 10px;
+}
+#button-body-7-1{
+    background-color: rgb(62, 106, 225);
+    color: white;
+    margin-right:13px ;
+    margin-top: 64px;
+}
+#button-body-7-2{
+    background-color: white;
+    color: black;
+    margin-top: 39px;
+}
+.body-9{
+    background-image: url(body-9.avif);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100vh;
+}
+.model-A{
+    color: white;
+    padding-top:56px;
+}
+.model-A h1{
+    font-size: 52px;
+    font-family:  "Universal Sans Display", -apple-system, Arial, sans-serif;
+    text-align: center;
+    margin-left: -10px;
+    margin-top: 10px;
+}
+#button-body-8{
+    background-color: rgb(62, 106, 225);
+    color: white;
+    margin-top: 68px;
+}
+.footer{
+    height: 532px;
+    width: 100%;
+    background-color: black;
+    color: rgb(208, 209, 210);
+    font-family:"Universal Sans Text", -apple-system, Arial, sans-serif;
+}
+.p-0{
+    display: block;
+    text-align: center;
+    margin-top: 0px;
+    padding-top: 35px;
+    font-size: 12px;
+    line-height: 17px;
+    word-spacing: 1px;
+    font-weight: 400;
+}
+.p-1{
+    display: block;
+    text-align: center;
+    margin-top: 0px;
+    padding-top: 3px;
+    font-size: 12px;
+    line-height: 17px;
+    word-spacing: 1px;
+    font-weight: 400;
+}
+.href-p{
+    color: rgb(208, 209, 210);
+    text-decoration: underline 0.5px;
+    text-underline-offset: 4px;
+}
+.li-footer{
+    cursor: pointer;
+    background-color: black;
+    color: rgb(208, 209, 210);
+    font-family:"Universal Sans Text", -apple-system, Arial, sans-serif;
+    display: block;
+    text-align: center;
+    margin-top: 0px;
+    padding-top: 3px;
+    font-size: 12px;
+    line-height: 17px;
+    width: 594px;
+    overflow: hidden;
+    font-weight: 400;
+    list-style: none;
+    display: flex;
+    padding-left: 369px;
+    padding-top: 57px;
+}
+.li-f{
+    padding-right: 16px;
+}
+
+
+
+
